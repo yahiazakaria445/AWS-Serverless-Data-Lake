@@ -19,7 +19,7 @@ An end-to-end serverless data lake on AWS: raw and curated storage in S3, schema
 
 ## Architecture
 <img width="1141" height="551" alt="AWS Serverless Data Lake drawio" src="https://github.com/user-attachments/assets/6797d913-9d43-487a-9287-5d57c01e6609" />
-The platform is organized into five layers:
+The platform is organized into six layers:
 
 | Layer | Services | Responsibility |
 |---|---|---|
